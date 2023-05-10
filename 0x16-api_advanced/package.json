@@ -1,0 +1,14 @@
+{
+  "name": "0x16-api_advanced",
+  "version": "1.0.0",
+  "description": "Api advanced  tasks",
+  "main": "index.js",
+  "scripts": {
+  "start": "node src/index.js"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "",
+  "license": "ISC"
+}
